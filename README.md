@@ -39,8 +39,3 @@ Note: The payment page is created only for demo purpose and its not fully integr
 
 
 
-<bold>Thanks a lot,</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
-
-
