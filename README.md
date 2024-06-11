@@ -1,7 +1,5 @@
 # Online Shopping Cart (E-Commerce Website)
-- Youtube Video for introduction, demo and setup for this Project: https://www.youtube.com/watch?v=RgQG0_orFpM
-<!-- - YouTube video for step by step local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw&t=8s -->
-<!-- Live site url: https://ellisonelectronics.herokuapp.com -->
+
 This is an E-Commerce Website build for selling of any electronics products online.
 
 ### About
@@ -53,9 +51,7 @@ STEP 1: Open MySQL Command Prompt or MySQL Workbench
 
 STEP 2: Login to the administrator user of MySql:
 	 ```mysql -u <username> -p``` (Enter Password if asked)
-
-STEP 3: Copy paste and execute the MySQL Query from the following file:-
-- Run the Sql Query From this file: [databases/mysql_query.sql](./databases/mysql_query.sql)
+  
 
 ### ======GENERATING GMAIL APP PASSWORD [For Mailing Functionalities]========
 Step 1: Create a gmail account or login to existing account in any browser
@@ -68,7 +64,7 @@ Step 4: In Select an App Section: select Other (custom name) => enter "Ellison E
 
 Step 5: After that it will generate 16 digits app password which you need to copy and save for future configurations.
 
-Step 6: Done : Now continue to importing the project. [Don't share the above password generated to anyone]
+Step 6: Done : Now continue to importing the project.
 
 ### ========== Importing and Running The Project Through Eclipse EE ==========
 
